@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+Java;Exploring+AI+Coding+Agents;Creating+with+TypeScript+and+Vue&font=Fira+Code&center=true&vCenter=true&width=520&height=45&size=20&weight=500&duration=3000&pause=1000&color=2F81F7" alt="Building with Java · Exploring AI Coding Agents · Creating with TypeScript and Vue" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+Java;Exploring+AI+Coding+Agents;Creating+with+TypeScript+and+Vue&font=Fira+Code&center=true&vCenter=true&width=520&height=45&size=20&weight=500&duration=3000&pause=1000&color=2F81F7" alt=" Exploring AI Coding Agents ·Building with Java · Creating with TypeScript and Vue" />
 </p>
 
 <h1 align="center">Hi, I'm Yifan Wang 👋</h1>
