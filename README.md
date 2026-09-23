@@ -19,6 +19,7 @@
 I enjoy turning ideas into working software, from backend services and AI agents to small interactive games.
 
 - 🌱 Currently learning **Java** and backend development
+- 🐹 Currently learning **Go** and exploring systems programming
 - 🤖 Building and experimenting with **AI coding agents**
 - 🧩 Interested in **open source, developer tools, and product development**
 - 🎮 Also enjoy creating small projects with **Vue** and **Cocos Creator**
@@ -57,8 +58,10 @@ I enjoy turning ideas into working software, from backend services and AI agents
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go — Learning](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
@@ -67,8 +70,26 @@ I enjoy turning ideas into working software, from backend services and AI agents
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-2F80ED?style=flat-square&logo=cocos&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Orca](https://img.shields.io/badge/Orca-1F2937?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## Open Source Contributions
+
+I enjoy contributing fixes and improvements to open source projects. Here are a few recent contributions:
+
+- [Apicurio Registry](https://github.com/Apicurio/apicurio-registry/pull/10186) — improved the UI label for the sunset state in the change dialog.
+- [Apache Polaris](https://github.com/apache/polaris/pull/5545) — migrated AWS SDK HTTP clients to Apache HttpClient 5.
+- [Grimmory](https://github.com/grimmory-tools/grimmory/pull/2684) — fixed folder audiobook track duration aggregation.
+- [Preflight](https://github.com/newrelic-experimental/preflight/pull/759) — made the Jest test suite independent of the local time zone.
 
 ## GitHub Activity
 
