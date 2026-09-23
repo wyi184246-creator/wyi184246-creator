@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Undergraduate student at China Agricultural University · Java enthusiast · Exploring open source and AI developer tools
+  Undergraduate student at China Agricultural University ·Exploring open source and AI developer tools
 </p>
 
 ---
