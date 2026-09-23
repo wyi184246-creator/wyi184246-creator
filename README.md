@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Yifan Wang 👋</h1>
 
 <p align="center">
-  中国农业大学本科生 · Java 爱好者 · 开源与 AI 工具探索者
+  中国农业大学本科生 ·开源与 AI 工具探索者
 </p>
 
 <p align="center">
