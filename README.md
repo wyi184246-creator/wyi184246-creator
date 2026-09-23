@@ -90,13 +90,6 @@ I enjoy contributing fixes and improvements to open source projects. Here are a 
 - [Grimmory](https://github.com/grimmory-tools/grimmory/pull/2684) — fixed folder audiobook track duration aggregation.
 - [Preflight](https://github.com/newrelic-experimental/preflight/pull/759) — made the Jest test suite independent of the local time zone.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wyi184246-creator&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="Yifan Wang's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyi184246-creator&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
-</p>
-
 ## Find Me
 
 - 📧 Email: [wyi184246@gmail.com](mailto:wyi184246@gmail.com)
