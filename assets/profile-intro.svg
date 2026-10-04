@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Yifan Wang 👋</title>
+  <desc id="desc">中国农业大学本科生 · 开源与 AI 工具探索者。Undergraduate student at China Agricultural University. Exploring open source and AI developer tools.</desc>
+  <rect width="900" height="240" rx="16" fill="#E6F3FF"/>
+  <g text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+    <text x="450" y="83" fill="#17365D" font-size="38" font-weight="700">Hi, I'm Yifan Wang 👋</text>
+    <text x="450" y="128" fill="#305778" font-size="23">中国农业大学本科生 · 开源与 AI 工具探索者</text>
+    <text x="450" y="166" fill="#305778" font-size="22">Undergraduate student at China Agricultural University</text>
+    <text x="450" y="197" fill="#305778" font-size="22">Exploring open source and AI developer tools</text>
+  </g>
+</svg>

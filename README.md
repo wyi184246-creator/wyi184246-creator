@@ -2,14 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+Java;Exploring+AI+Coding+Agents;Creating+with+TypeScript+and+Vue&font=Fira+Code&center=true&vCenter=true&width=520&height=45&size=20&weight=500&duration=3000&pause=1000&color=2F81F7" alt=" Exploring AI Coding Agents ·Building with Java · Creating with TypeScript and Vue" />
 </p>
 
-<h1 align="center">Hi, I'm Yifan Wang 👋</h1>
-
 <p align="center">
-  中国农业大学本科生 ·开源与 AI 工具探索者
-</p>
-
-<p align="center">
-  Undergraduate student at China Agricultural University ·Exploring open source and AI developer tools
+  <img src="assets/profile-intro.svg" width="100%" alt="Hi, I am Yifan Wang 👋 · 中国农业大学本科生 · 开源与 AI 工具探索者 · Undergraduate student at China Agricultural University · Exploring open source and AI developer tools" />
 </p>
 
 ---
@@ -88,6 +82,10 @@ I enjoy turning ideas into working software, from backend services and AI agents
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Theme**
+
+[![Nord Theme](https://img.shields.io/badge/Nord-Theme-88C0D0?style=flat-square&labelColor=2E3440)](https://www.nordtheme.com/)
 
 ## Open Source Contributions
 
