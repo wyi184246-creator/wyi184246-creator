@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+Java;Exploring+AI+Coding+Agents;Creating+with+TypeScript+and+Vue&font=Fira+Code&center=true&vCenter=true&width=520&height=45&size=20&weight=500&duration=3000&pause=1000&color=2F81F7" alt=" Exploring AI Coding Agents ·Building with Java · Creating with TypeScript and Vue" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+with+Java;Exploring+AI+Coding+Agents;Creating+with+TypeScript+and+Vue&amp;font=Fira+Code&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=45&amp;size=20&amp;weight=800&amp;duration=3000&amp;pause=1000&amp;color=00F5D4" alt="Building with Java · Exploring AI Coding Agents · Creating with TypeScript and Vue" />
 </p>
 
 <h1 align="center">Hi, I'm Yifan Wang 👋</h1>
 
 <p align="center">
-  中国农业大学本科生 ·开源与 AI 工具探索者
+  中国农业大学本科生 · 开源与 AI 工具探索者
 </p>
 
 <p align="center">
-  Undergraduate student at China Agricultural University ·Exploring open source and AI developer tools
+  Undergraduate student at China Agricultural University · Exploring open source and AI developer tools
 </p>
 
 ---
@@ -23,6 +23,62 @@ I enjoy turning ideas into working software, from backend services and AI agents
 - 🤖 Building and experimenting with **AI coding agents**
 - 🧩 Interested in **open source, developer tools, and product development**
 - 🎮 Also enjoy creating small projects with **Vue** and **Cocos Creator**
+
+## Open Source · 开源项目
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Org</th>
+    <th align="left">Merged PRs</th>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/bytedance/deer-flow"><img src="https://github.com/bytedance.png?size=48" width="24" height="24" alt="ByteDance logo" />&nbsp;<strong>DeerFlow</strong></a>&nbsp;<a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;color=FFCC66&amp;labelColor=0D1117" alt="DeerFlow stars" /></a><br />
+      <sub>AI agent framework for research, coding, and complex tasks</sub>
+    </td>
+    <td align="left">ByteDance</td>
+    <td align="left">
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3Awyi184246-creator%20is%3Amerged&amp;label=merged%20PRs&amp;style=flat-square&amp;color=00F5D4&amp;labelColor=0D1117" alt="DeerFlow merged PRs" /></a><br />
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Apicurio/apicurio-registry"><img src="https://github.com/Apicurio.png?size=48" width="24" height="24" alt="Apicurio logo" />&nbsp;<strong>Apicurio Registry</strong></a>&nbsp;<a href="https://github.com/Apicurio/apicurio-registry"><img src="https://img.shields.io/github/stars/Apicurio/apicurio-registry?style=flat-square&amp;color=FFCC66&amp;labelColor=0D1117" alt="Apicurio Registry stars" /></a><br />
+      <sub>API and schema registry</sub>
+    </td>
+    <td align="left">Apicurio</td>
+    <td align="left">
+      <a href="https://github.com/Apicurio/apicurio-registry/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AApicurio%2Fapicurio-registry%20is%3Apr%20author%3Awyi184246-creator%20is%3Amerged&amp;label=merged%20PRs&amp;style=flat-square&amp;color=00F5D4&amp;labelColor=0D1117" alt="Apicurio Registry merged PRs" /></a><br />
+      <a href="https://github.com/Apicurio/apicurio-registry/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/apache/polaris"><img src="https://github.com/apache.png?size=48" width="24" height="24" alt="Apache logo" />&nbsp;<strong>Apache Polaris</strong></a>&nbsp;<a href="https://github.com/apache/polaris"><img src="https://img.shields.io/github/stars/apache/polaris?style=flat-square&amp;color=FFCC66&amp;labelColor=0D1117" alt="Apache Polaris stars" /></a><br />
+      <sub>Open catalog for Apache Iceberg</sub>
+    </td>
+    <td align="left">Apache</td>
+    <td align="left">
+      <a href="https://github.com/apache/polaris/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aapache%2Fpolaris%20is%3Apr%20author%3Awyi184246-creator%20is%3Amerged&amp;label=merged%20PRs&amp;style=flat-square&amp;color=00F5D4&amp;labelColor=0D1117" alt="Apache Polaris merged PRs" /></a><br />
+      <a href="https://github.com/apache/polaris/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/grimmory-tools/grimmory"><img src="https://github.com/grimmory-tools.png?size=48" width="24" height="24" alt="Grimmory logo" />&nbsp;<strong>Grimmory</strong></a>&nbsp;<a href="https://github.com/grimmory-tools/grimmory"><img src="https://img.shields.io/github/stars/grimmory-tools/grimmory?style=flat-square&amp;color=FFCC66&amp;labelColor=0D1117" alt="Grimmory stars" /></a><br />
+      <sub>Self-hosted library for ebooks, comics, and audiobooks</sub>
+    </td>
+    <td align="left">Grimmory</td>
+    <td align="left">
+      <a href="https://github.com/grimmory-tools/grimmory/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Agrimmory-tools%2Fgrimmory%20is%3Apr%20author%3Awyi184246-creator%20is%3Amerged&amp;label=merged%20PRs&amp;style=flat-square&amp;color=00F5D4&amp;labelColor=0D1117" alt="Grimmory merged PRs" /></a><br />
+      <a href="https://github.com/grimmory-tools/grimmory/pulls?q=is%3Apr+author%3Awyi184246-creator+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Featured Projects
 
@@ -69,7 +125,7 @@ I enjoy turning ideas into working software, from backend services and AI agents
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go — Learning](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go (Learning)](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frameworks & Platforms**
@@ -89,14 +145,11 @@ I enjoy turning ideas into working software, from backend services and AI agents
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Open Source Contributions
+**Theme**
 
-I enjoy contributing fixes and improvements to open source projects. Here are a few recent contributions:
+![dark-neon Theme](https://img.shields.io/badge/Theme-dark--neon-00F5D4?style=flat-square&labelColor=0D1117)
 
-- [Apicurio Registry](https://github.com/Apicurio/apicurio-registry/pull/10186) — improved the UI label for the sunset state in the change dialog.
-- [Apache Polaris](https://github.com/apache/polaris/pull/5545) — migrated AWS SDK HTTP clients to Apache HttpClient 5.
-- [Grimmory](https://github.com/grimmory-tools/grimmory/pull/2684) — fixed folder audiobook track duration aggregation.
-- [Preflight](https://github.com/newrelic-experimental/preflight/pull/759) — made the Jest test suite independent of the local time zone.
+---
 
 ## Find Me
 
