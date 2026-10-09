@@ -80,35 +80,6 @@ I enjoy turning ideas into working software, from backend services and AI agents
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wyi184246-creator/Coding-Agent">MewCode</a></h3>
-      <p>A TypeScript command-line Coding Agent built around a ReAct loop, with support for Anthropic and OpenAI-compatible streaming backends, MCP tools, and multi-agent collaboration.</p>
-      <a href="https://github.com/wyi184246-creator/Coding-Agent">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wyi184246-creator/ReachAcademy-test">ReachAcademy</a></h3>
-      <p>A test version of an education platform project, reflecting my interest in practical application development and backend systems.</p>
-      <a href="https://github.com/wyi184246-creator/ReachAcademy-test">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wyi184246-creator/travelAiBack">Travel AI Backend</a></h3>
-      <p>A backend project for exploring AI-assisted travel applications.</p>
-      <a href="https://github.com/wyi184246-creator/travelAiBack">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wyi184246-creator/cocos-loutachumo">楼塔除魔</a></h3>
-      <p>A Cocos Creator mini-game built with TypeScript, featuring tower levels, drag-and-drop combat, scoring, and randomly generated stages.</p>
-      <a href="https://github.com/wyi184246-creator/cocos-loutachumo">View project →</a>
-    </td>
-  </tr>
-</table>
-
 ## Tech & Tools
 
 **AI & Agent**
