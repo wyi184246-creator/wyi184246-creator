@@ -126,3 +126,12 @@ I enjoy turning ideas into working software, from backend services and AI agents
 
 - 📧 Email: [wyi184246@gmail.com](mailto:wyi184246@gmail.com)
 - 🐙 GitHub: [@wyi184246-creator](https://github.com/wyi184246-creator)
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyi184246-creator/wyi184246-creator/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/wyi184246-creator/wyi184246-creator/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation of Yifan Wang's GitHub contribution graph">
+  </picture>
+</p>
